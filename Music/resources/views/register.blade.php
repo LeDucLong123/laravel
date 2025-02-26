@@ -33,7 +33,7 @@
                 <div class="card-heading"></div>
                 <div class="card-body">
                     <h2 class="title">Registration Info</h2>
-                    <form action="" method="POST">
+                    <form action="{{ route('auth.signup') }}" method="POST">
                         @csrf
                         <div class="input-group">
                             <input class="input--style-3" type="text" placeholder="Name" name="name">
