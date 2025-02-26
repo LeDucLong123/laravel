@@ -59,7 +59,7 @@
 					<li>
 						<a href="{{ route('auth.logout') }}"><i class="fa fa-solid fa-arrow-right-to-bracket mr-3"></i>
 
-							Log In</a>
+							Sign out</a>
 					</li>
 				</ul>
 			</div>
