@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://literate-bassoon-g447p5464xq53wp5-8002.app.github.dev'),
 
     /*
     |--------------------------------------------------------------------------
