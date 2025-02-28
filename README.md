@@ -53,7 +53,7 @@ php artisan serve
 
 ---
 
-## Booking
+## Sequence Diagram :Booking Room
 ```mermaid
 sequenceDiagram
     User->>Server: Yêu cầu đặt phòng
@@ -66,7 +66,7 @@ sequenceDiagram
 
 ---
 
-## Check-out
+## Sequence Diagram :Check-out
 ```mermaid
 sequenceDiagram
     User->>Server: Gửi yêu cầu trả phòng
