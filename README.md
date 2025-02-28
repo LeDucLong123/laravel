@@ -44,6 +44,6 @@ php artisan serve
 
 ---
 
-<img src="./image/class.png" alt="Welcome" width="820" height="380">
+<img src="./image/class.png" alt="Welcome" width="820">
 
 ---
