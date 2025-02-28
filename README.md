@@ -22,6 +22,12 @@ Automatic order creation: When a booking is successful, the system automatically
 4. Admin
 User management: Only administrators have the right to add, edit, or delete user accounts.
 
+## Technologies Used
+
+- Laravel Framework
+- OOP PHP
+- MVC Architecture
+
 ---
 
 ## Deployment Guide(Local Development Environment)
