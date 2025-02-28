@@ -41,3 +41,9 @@ php artisan serve
 ---
 
 ## UML - Class Diagram
+
+---
+
+<img src="./image/class.png" alt="Welcome" width="820" height="380">
+
+---
