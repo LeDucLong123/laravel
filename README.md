@@ -11,6 +11,7 @@
 The karaoke room booking web application allows users to book and check out rooms quickly online. The simple interface is designed to provide an easy user experience for booking or checking out. The system assigns different roles and permissions for regular users and administrators (Admin). <br>
 
 - Link website: https://redesigned-space-bassoon-6957wqp954g35wv-8000.app.github.dev
+- Link repository: https://github.com/LeDucLong123/laravel_1.git
 
 ## Main Features
 
