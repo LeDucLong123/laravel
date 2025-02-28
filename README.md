@@ -47,3 +47,11 @@ php artisan serve
 <img src="./image/class.png" alt="Welcome" width="820">
 
 ---
+
+## Use Case Diagram
+
+---
+
+<img src="./image/usecase.png" alt="Welcome" width="820">
+
+---
