@@ -27,6 +27,7 @@ php artisan key:generate
 ```
 4. Configure Database Settings:
 - Correct configuration with the database on your local machine
+- After registering or creating an account, you need to access the database and set the users table to have column userRole = 1 to use **ADMIN** rights.
 5. Run Migrations and Seed the Database:
 ```php
 php artisan migrate
