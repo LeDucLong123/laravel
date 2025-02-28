@@ -37,3 +37,7 @@ php artisan serve
 ```
 7. Access the Application:
 - Access your website: http://localhost:8000
+
+---
+
+## UML - Class Diagram
