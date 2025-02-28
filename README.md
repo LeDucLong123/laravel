@@ -6,7 +6,7 @@
 
 ---
 
-##Deployment Guide(Local Development Environment)
+## Deployment Guide(Local Development Environment)
 
 1. Clone the Repository
 - git clone https://github.com/LeDucLong123/laravel_1.git
