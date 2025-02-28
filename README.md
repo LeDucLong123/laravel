@@ -1,7 +1,9 @@
 # Project: Music Room
 ---
 <img src="./image/welcome.jpg" alt="Welcome" width="820" height="380">
---- <br>
+<br>
+---
+<br>
 ##Deployment Guide(Local Development Environment)
 
 1. Clone the Repository
