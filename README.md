@@ -53,6 +53,7 @@ php artisan serve
 
 ---
 
+## Booking
 ```mermaid
 sequenceDiagram
     User->>Server: Yêu cầu đặt phòng
@@ -61,3 +62,17 @@ sequenceDiagram
     Server->>Order: Tạo Order và lưu
     Order-->>Server: Lưu thành công
     Server-->>User: Gửi kết quả cho User
+```
+
+---
+
+## Check-out
+```mermaid
+sequenceDiagram
+    User->>Server: Gửi yêu cầu trả phòng
+    Server->>Order: Kiểm tra thông tin đơn đặt phòng
+    Order-->>Server: Trả về thông tin đặt phòng
+    Server->>Room: Cập nhật trạng thái phòng (Phòng trống)
+    Room-->>Server: Xác nhận cập nhật thành công
+    Server-->>User: Xác nhận trả phòng thành công
+```
