@@ -4,6 +4,24 @@
 
 <img src="./image/welcome.jpg" alt="Welcome" width="820" height="380">
 
+--- 
+
+## About the project
+
+The karaoke room booking web application allows users to book and check out rooms quickly online. The simple interface is designed to provide an easy user experience for booking or checking out. The system assigns different roles and permissions for regular users and administrators (Admin).
+
+## Main Features
+
+1. User
+View available rooms: Users can see the list of available rooms.
+2. Room
+Room details: Allows users to view the list of rooms along with detailed information about each room, including room type and status (available or booked).
+Admin privileges: Only administrators (Admin) have the right to add, edit, or delete rooms.
+3. Order
+Automatic order creation: When a booking is successful, the system automatically creates an Order with full details, including user information, booked room, and the duration of the stay.
+4. Admin
+User management: Only administrators have the right to add, edit, or delete user accounts.
+
 ---
 
 ## Deployment Guide(Local Development Environment)
