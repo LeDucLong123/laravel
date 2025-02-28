@@ -52,3 +52,12 @@ php artisan serve
 <img src="./image/usecase.png" alt="Welcome" width="820">
 
 ---
+
+```mermaid
+sequenceDiagram
+    User->>Server: Yêu cầu đặt phòng
+    Server->>Room: Kiểm tra phòng trống
+    Room-->>Server: Trả về thông tin phòng
+    Server->>Order: Tạo Order và lưu
+    Order-->>Server: Lưu thành công
+    Server-->>User: Gửi kết quả cho User
