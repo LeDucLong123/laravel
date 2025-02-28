@@ -103,3 +103,17 @@ sequenceDiagram
     Room-->>Server: Xác nhận cập nhật thành công
     Server-->>User: Xác nhận trả phòng thành công
 ```
+
+---
+
+## Admin Role
+
+<img src="./image/admin.png" alt="Welcome" width="820">
+
+## User Role
+
+<img src="./image/user.png" alt="Welcome" width="820">
+
+<br>
+
+<img src="./image/thank.jpg" alt="Welcome" width="820">
