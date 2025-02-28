@@ -22,4 +22,4 @@
 7. Access the Application:
     Access your website: 
 ```php
-echo "Xin chào!";
+123456
